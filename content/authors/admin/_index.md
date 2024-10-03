@@ -3,11 +3,11 @@
 title: 최연우
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Choi Yeon Woo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yeon Woo
+last_name: Choi
 
 # Status emoji
 status:
