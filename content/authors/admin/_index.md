@@ -133,6 +133,18 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
+      - name: ''
+        description: ''
+        percent: ''
+        icon: ''
       #- name: Cats
       #  description: ''
       #  percent: 100
