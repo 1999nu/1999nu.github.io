@@ -45,7 +45,7 @@ interests:
   - Blockchain
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Computer Science and Engineering
     institution: Jeonbuk National University
     date_start: 2019-03-02
     date_end: ''
@@ -54,28 +54,28 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  #- area: MEng Artificial Intelligence
+  #  institution: Jeonbuk National University
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #- area: BSc Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.4/4.0
+  #    
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -131,7 +131,7 @@ skills:
     items:
       - name: Soccer
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       #- name: Cats
       #  description: ''
